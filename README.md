@@ -1,0 +1,1 @@
+# Clausula-Where-Oracle
