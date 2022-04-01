@@ -37,7 +37,7 @@
  | 2            | impresora           |  Epson Stylus C85   |   500   |
 
  
- #### consulta con campos especificos utilizando where
+> consulta con campos especificos utilizando where
  ```sql
  select nombre, descripcion from articulos where nombre = 'impresora';
  ```
