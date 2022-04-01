@@ -28,7 +28,13 @@
  
  #### Consulta con where
   ```sql
- select * from articulos where nombre='impresora';
+ select * from articulos where nombre = 'impresora';
  ```
+ #### Resultado: 
+ | CODIGO            | NOMBRE           |  DESCRIPCION   |   PRECIO   |
+ | ------------------|:----------------:|---------------:|-----------:|
+ | 1            | impresora           |  Epson Stylus C45   |   400.80   |
+ | 2            | impresora           |  Epson Stylus C85   |   500   |
+
  
  
